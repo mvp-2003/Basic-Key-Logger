@@ -1,4 +1,4 @@
-from pynput.keyboard import Listener, Key
+from pynput.keyboard import Listener
 import logging
 
 log_dir = ""
